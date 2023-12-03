@@ -26,3 +26,5 @@
 - **3xx:** Redirecionamento (ex: 301 para movido permanentemente, 304 para não modificado).
 - **4xx:** Erros do cliente (ex: 404 para recurso não encontrado, 400 para requisição inválida).
 - **5xx:** Erros do servidor (ex: 500 para erro interno do servidor).
+
+- Autor do resumo: Lidyce Amanda Gomes de Oliveira - 01550458
