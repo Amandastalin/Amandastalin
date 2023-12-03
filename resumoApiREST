@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @Amandastalin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Amandastalin/Amandastalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### API REST:
 - É um conjunto de diretrizes arquiteturais para criar serviços web.
 - Baseia-se no protocolo HTTP para comunicação entre sistemas.
@@ -35,3 +26,5 @@ You can click the Preview link to take a look at your changes.
 - **3xx:** Redirecionamento (ex: 301 para movido permanentemente, 304 para não modificado).
 - **4xx:** Erros do cliente (ex: 404 para recurso não encontrado, 400 para requisição inválida).
 - **5xx:** Erros do servidor (ex: 500 para erro interno do servidor).
+
+- Autor do resumo: Lidyce Amanda Gomes de Oliveira - 01550458
